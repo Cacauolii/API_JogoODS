@@ -1,62 +1,93 @@
-🌱 Semeando o Futuro
-Vida na Roça: A Jornada de Raimundo
-🎯 Objetivos e Temas do Jogo
-"Semeando o Futuro" é um jogo educativo que aborda os Objetivos de Desenvolvimento Sustentável (ODS), focando especialmente em Fome Zero e Agricultura Sustentável e Vida na Água. Através de uma experiência imersiva, o jogador é convidado a compreender a importância da agricultura consciente e da preservação ambiental.
+# 🌱 Semeando o Futuro  
+## Vida na Roça: A Jornada de Raimundo
 
-🌾 Função Principal
-Neste jogo, você assume o papel de Raimundo, um jovem fazendeiro dedicado a plantar, cuidar e colher seus próprios alimentos. Ao longo da jornada, o jogador aprende sobre a importância da segurança alimentar, da nutrição adequada e da sustentabilidade na produção agrícola.
+### 🎯 Objetivos e Temas do Jogo  
+**Semeando o Futuro** é um jogo educativo que aborda os Objetivos de Desenvolvimento Sustentável (ODS), com foco em:
 
-Além disso, o jogo promove a conscientização ambiental ao incentivar práticas responsáveis, como o reflorestamento — para cada árvore derrubada, duas devem ser plantadas — e a limpeza dos rios poluídos, mostrando o impacto positivo das ações sustentáveis no ecossistema local.
+- 🥕 **Fome Zero e Agricultura Sustentável**
+- 🌊 **Vida na Água**
 
-🎮 Objetivo do Jogo
-O principal objetivo é gerenciar uma pequena fazenda, realizando atividades essenciais como:
+Por meio de uma experiência divertida e consciente, o jogador aprende a importância da produção agrícola responsável e da preservação dos recursos naturais.
 
-Plantar, regar e colher alimentos para garantir a subsistência.
+---
 
-Limpar o rio da fazenda, pescando o lixo e destinando-o corretamente às latas de reciclagem.
+### 🌾 Função Principal  
+Você assume o papel de **Raimundo**, um jovem fazendeiro que planta, rega e colhe seus próprios alimentos. O jogo promove a:
 
-Ser recompensado com moedas por suas ações sustentáveis, que podem ser usadas para comprar mais sementes e ferramentas.
+- Segurança alimentar  
+- Melhoria da nutrição  
+- Aumento da produtividade agrícola  
+- Geração de renda para pequenos produtores  
 
-🌄 Ambientação
-O jogo é apresentado em estilo plataforma 2D ou visão top-down, ambientado em uma fazenda vibrante e cheia de vida. O cenário conta com:
+Também há uma forte mensagem ambiental, como:
 
-Campos verdes e férteis para cultivo
+- Replantio obrigatório de duas árvores para cada uma derrubada 🌳  
+- Limpeza dos rios poluídos, pescando lixos e jogando-os nas lixeiras recicláveis ♻️  
+- Visualização do impacto positivo das boas ações no ambiente do jogo
 
-Árvores que precisam ser preservadas e replantadas
+---
 
-Uma estátua no centro da fazenda como ponto de referência
+### 🎮 Objetivo do Jogo  
+- Cultivar alimentos: plantar, regar e colher  
+- Limpar o rio: pescar lixos e reciclá-los corretamente  
+- Ser recompensado com moedas 🪙  
+- Comprar novas sementes e melhorar sua fazenda  
 
-Caminhos de terra, cercas rústicas e um rio inicialmente poluído, que pode ser limpo pelo jogador
+---
 
-👥 Personagens e Dinâmica
-Raimundo — o protagonista, um jovem fazendeiro de 24 anos, vestido com macacão e blusa vermelha, cabelos castanhos, equipado com ferramentas como pá, regador, machado, martelo e vara de pesca. Raimundo é responsável por executar todas as tarefas na fazenda.
+### 🌄 Ambientação  
+O jogo é em estilo **plataforma 2D** ou **top-down**, ambientado em uma fazenda com:
 
-Maria — NPC de 22 anos que atua como vendedora e mentora, oferecendo sementes para cultivo e orientando Raimundo durante a aventura. Maria está localizada no ambiente inicial e está sempre pronta para conversar e ajudar o jogador.
+- Campos de plantio  
+- Grama verde e árvores  
+- Uma estátua no centro  
+- Cercas de madeira e caminhos de terra  
+- Um rio poluído que pode ser recuperado
 
-🧰 Ferramentas disponíveis
-Vara de pesca
+---
 
-Pá
+### 👥 Personagens
 
-Regador
+- **Raimundo** (24 anos) — fazendeiro protagonista  
+  - Aparência: macacão, blusa vermelha, cabelos castanhos  
+  - Ferramentas: pá, regador, machado, martelo e vara de pesca  
+- **Maria** (22 anos) — NPC vendedora e guia do jogo  
+  - Vende sementes e dá orientações ao jogador  
+  - Está posicionada na área inicial da fazenda
 
-Machado
+---
 
-Martelo
+### 🧰 Ferramentas do Jogador
 
-🔐 Cadastro
-O jogador deverá criar um usuário e senha para acessar o jogo, garantindo personalização e salvamento do progresso.
+- Pá 🪣  
+- Regador 💧  
+- Machado 🪓  
+- Martelo 🔨  
+- Vara de pesca 🎣  
 
-🎯 Público-alvo
-O jogo é destinado a jovens entre 8 e 18 anos, com linguagem e mecânicas acessíveis para esse público.
+---
 
-🔞 Classificação indicativa
-Livre — adequado para todas as idades.
+### 🔐 Cadastro  
+Sistema simples de **usuário e senha** para salvar o progresso do jogador.
 
-💻 Plataforma
-Disponível para PC.
+---
 
+### 👶 Público-alvo  
+- Jovens de **8 a 18 anos**  
+- Linguagem acessível, mecânicas intuitivas
 
--Fluxograma do projeto:
+---
 
+### 🔞 Classificação  
+**Livre** — adequado para todas as idades
+
+---
+
+### 💻 Plataforma  
+- **PC (computador)**
+
+---
+
+### 🧭 Fluxograma da API  
 ![Image](https://github.com/user-attachments/assets/ddaa2087-f61f-4bde-af99-138fbb585ae8)
+
